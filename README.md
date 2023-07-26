@@ -1,5 +1,7 @@
 # GitHubDemo_WMCA2
 Demonstrating the features of GitHub
 
-## This is a heading
-We create headings using a double hashtag 
+Below are some changes that I have made to this commit
+
+## A new title
+Some new text
